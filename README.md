@@ -6,4 +6,5 @@
 ### [CodeUp](https://codeup.kr)
 - [1901](./CodeUp/CodeUp_1901.py)
 - [1902](./CodeUp/CodeUp_1902.py)
+- [1805](./CodeUp/CodeUp_1805.py)
 ### [BOJ](https://www.acmicpc.net)
