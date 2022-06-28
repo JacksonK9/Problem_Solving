@@ -5,4 +5,5 @@
 ## 정복한 문제
 ### [CodeUp](https://codeup.kr)
 - [1901](./CodeUp/CodeUp_1901.py)
+- [1902](./CodeUp/CodeUp_1902.py)
 ### [BOJ](https://www.acmicpc.net)
