@@ -10,3 +10,4 @@
 ### [BOJ](https://www.acmicpc.net)
 - [2558](./BOJ/BOJ_2558.py)
 - [10817](./BOJ/BOJ_10817.py)
+- [2440](./BOJ/BOJ_2440.py)
