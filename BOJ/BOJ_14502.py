@@ -59,6 +59,3 @@ for i, j, k in permutations(range(N * M), 3):
         max_num = tmp
         
 print(max_num)
-        
-
-    
