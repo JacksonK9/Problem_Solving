@@ -8,3 +8,4 @@
 - [1902](./CodeUp/CodeUp_1902.py)
 - [1805](./CodeUp/CodeUp_1805.py)
 ### [BOJ](https://www.acmicpc.net)
+- [2558](./BOJ/BOJ_2558.py)
