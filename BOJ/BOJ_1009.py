@@ -1,15 +1,7 @@
-import sys
-
-sys.setrecursionlimit(100000000)
-
-def pow(a, b):
-    if b % 2 == 1:
-        return a * pow(a ** 2, b // 2)
-    else:
-        return pow(a ** 2, b // 2)
-
 T = int(input())
 
+remainder = [[10], [1], [2, 4, 8, 6], [3, 9, 7, 1], [4, 6], [5], [6], [7, 9, 3, 1], [8, 4, 2, 6], [9, 1]]
 for _ in range(T):
     a, b = map(int, input().split())
-    print(pow(a, b) % 10)
+    a %= 10
+    print(remainder[a][(b - 1) % len(remainder[a])])
