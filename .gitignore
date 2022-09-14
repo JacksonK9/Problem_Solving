@@ -1,5 +1,7 @@
 *.code-workspace
 .DS_Store
-./KaKaoMobility
-./WooHyung
-./Yujin
+
+# folder
+KaKaoMobility
+WooHyung
+Yujin
