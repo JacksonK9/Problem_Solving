@@ -1,8 +1,11 @@
 # Problem Solving using Python
 - Problem Solving Repository for Records
 - Start with CodeUp & BOJ
+- Add Softeer
 ---
 ## 정복한 문제
+### [Softeer](https://softeer.ai/)
+- [슈퍼컴퓨터 클러스터](./Softeer/SuperComputerCluster.py)
 ### [CodeUp](https://codeup.kr)
 - [1901](./CodeUp/CodeUp_1901.py)
 - [1902](./CodeUp/CodeUp_1902.py)
