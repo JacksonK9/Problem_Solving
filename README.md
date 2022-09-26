@@ -6,6 +6,7 @@
 ## 정복한 문제
 ### [Softeer](https://softeer.ai/)
 - [슈퍼컴퓨터 클러스터](./Softeer/SuperComputerCluster.py)
+- [통근버스 출발 순서 검증하기](./Softeer/통근버스출발순서.py)
 ### [CodeUp](https://codeup.kr)
 - [1901](./CodeUp/CodeUp_1901.py)
 - [1902](./CodeUp/CodeUp_1902.py)
